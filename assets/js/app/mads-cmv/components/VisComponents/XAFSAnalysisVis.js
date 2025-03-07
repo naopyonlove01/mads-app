@@ -1726,7 +1726,7 @@ export default function XAFSAnalysis({
             onClose={() => setOpen(false)}
             closeIcon
           >
-            <Modal.Header>Select Data File to Export PDF</Modal.Header>
+            <Modal.Header>Select Data File to Export CSV</Modal.Header>
             <Modal.Content>
               <Form>
                 <Header as="h4">Single Data</Header>
